@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aronyo-mojumder" alt="aronyo-mojumder" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/i/flow/login?redirect_after_login=%2faronyo_mojumder" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/i/flow/login?redirect_after_login=%2faronyo_mojumder?logo=twitter&style=for-the-badge" alt="https://twitter.com/i/flow/login?redirect_after_login=%2faronyo_mojumder" /></a> </p>
+
 
 - 📫 How to reach me **aronyom22@gmail.com**
 
